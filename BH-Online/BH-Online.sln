@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BH-Online", "BH-Online\BH-Online.csproj", "{E60A1CCE-F37D-48FC-A2A5-0E5792A36115}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E60A1CCE-F37D-48FC-A2A5-0E5792A36115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E60A1CCE-F37D-48FC-A2A5-0E5792A36115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E60A1CCE-F37D-48FC-A2A5-0E5792A36115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E60A1CCE-F37D-48FC-A2A5-0E5792A36115}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {616C5BCE-F24B-4FEC-AE6C-FA0F674A8611}
+	EndGlobalSection
+EndGlobal
